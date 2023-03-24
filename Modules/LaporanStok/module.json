@@ -1,0 +1,11 @@
+{
+    "name": "LaporanStok",
+    "alias": "laporanstok",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\LaporanStok\\Providers\\LaporanStokServiceProvider"
+    ],
+    "files": []
+}

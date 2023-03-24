@@ -1,0 +1,11 @@
+{
+    "name": "LaporanTransaksi",
+    "alias": "laporantransaksi",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\LaporanTransaksi\\Providers\\LaporanTransaksiServiceProvider"
+    ],
+    "files": []
+}

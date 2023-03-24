@@ -1,0 +1,16 @@
+{
+    "User": true,
+    "Main": true,
+    "Dashboard": true,
+    "Login": true,
+    "Profile": true,
+    "Role": true,
+    "Kategori": true,
+    "Satuan": true,
+    "Supplier": true,
+    "Produk": true,
+    "Transaksi": true,
+    "Stok": true,
+    "LaporanTransaksi": true,
+    "LaporanStok": true
+}
